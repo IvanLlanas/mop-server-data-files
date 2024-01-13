@@ -1,2 +1,2 @@
-# mop-server-data-files
-Data files required by MoP server. 
+# WoWSSS - MoP server data files
+This is an external resource required for [WoWSSS](https://github.com/IvanLlanas/wowsss)
